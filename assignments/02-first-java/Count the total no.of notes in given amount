@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class QA_NotesCount {
+public class NotesCount {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
