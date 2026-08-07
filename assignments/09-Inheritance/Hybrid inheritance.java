@@ -50,7 +50,7 @@ public class Main {
     }
 }
 
-Output:-
+//Output:-
 This is a Vehicle
 This is a Car
 Harsha
@@ -59,3 +59,4 @@ Saketh
 
 This is a Vehicle
 This is a Bike
+
